@@ -1,4 +1,4 @@
-# Landing-Page.github.io
+# Landing-Page for Codsoft Internship
 <h1 align="center">Hi 👋, I'm Swarup Mahato</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
